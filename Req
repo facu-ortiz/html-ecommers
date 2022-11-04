@@ -1,0 +1,29 @@
+Desafio
+
+web: shop
+* generar layour (header, main, footer)
+* definir header (logo, menu, search, perfi)
+* definir main ( lista de productos en 4 columnas)
+* definir footer ( agregar informacion del shop)
+
+* header: 
+  - logo: buscar una imagen del shop
+  - menu: 
+    home, 
+    productos:
+      short,
+      shoes,
+      ..
+  - search: input con icon de lupa
+  - perfil: nombre del usuario y un logo (foto o avatar generico)
+
+* main:
+  - crear un grid de 4 cuatro columnas
+  - rear tarjetas para las columnas y repetirlas
+  - un total de 4 filas --> 16 tarjetas con la misma estructura, diferente contenido
+
+* footer:
+  - nombre empresa
+  - direccion
+  - mail 
+  - redes sociales

@@ -1,0 +1,45 @@
+html
+* se genera la estructura donde se va a implementar la Web
+* lenguage de marcado
+
+estiquetas:
+basicas
+* div --> contenedor de bloque
+* span --> contenedores de linea
+* p --> bloque de parrafo, se utiliza solo para textos
+* ul, li --> componentes de lista
+* ol, li --> componentes de listas ordenadas
+* img --> componente de imagen
+
+HTML5
+* header
+* nav
+* section
+* main
+* side
+* footer
+
+proiedades de etiquetas:
+* id --> unicos 
+* class --> muchas 
+
+css
+* se le da la cosmetica a la web 
+* se definen colores
+* se definen distancias y medidas 
+* etc
+
+javascript
+* la parte dinamica a la web
+
+<div>
+  <div>marca</div>
+  <div>contenido</div>
+  <div>informacion</div>
+</div>
+
+<main>
+  <header>marca</header>
+  <section>contenido</section>
+  <footer>informacion</footer>
+</main>
