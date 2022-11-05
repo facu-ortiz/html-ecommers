@@ -4,8 +4,14 @@ header {
     justify-content: space-between;
     align-items: center;
     font-family: sans-serif;
-    padding: 10px 15px;
+    padding: 10px 145px;
     text-align: center;
+}
+
+main {
+    margin-top: 148px;
+    margin-left: 145px;
+    margin-right: 145px;
 }
 /* logo en header*/
 .logo {
@@ -92,8 +98,6 @@ nav.menu {
     display: flex;
     width: 519px;
     height: 553px;
-    margin-top: 148px;
-    margin-left: 145px;
     flex-direction: column-reverse;
     align-content: space-around;
     flex-wrap: wrap;
